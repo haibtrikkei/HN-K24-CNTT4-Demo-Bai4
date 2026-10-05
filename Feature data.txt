@@ -1,0 +1,3 @@
+Tính năng phát triển thêm trong nhánh
+feature.
+Chưa hoàn thiện để deploy
