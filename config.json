@@ -1,2 +1,2 @@
-username: cuongnt
-pass: 1234
+username: ${USERNAME}
+pass: ${USERPASS}
